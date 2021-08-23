@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johan-san
 - 👀 I’m interested in  Aprender de todo el entorno  GitHub  y de la comunidad
-- 🌱 I’m currently learning  La iniciacion y carrera de progrmador 
+- 🌱 I’m currently learning  La iniciacion y carrera de programador
 - 💞️ I’m looking to collaborate on Proyectos interesantes y de iniciacion 
 - 📫 How to reach me  por correo electronico  johan-san77@outlook.com
 
